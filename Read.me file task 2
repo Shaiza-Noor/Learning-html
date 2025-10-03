@@ -1,13 +1,19 @@
-# Learning HTML
-This repository contains basic HTML and CSS practice files.  
-It is created for learning and practicing web development fundamentals.
+# Learning HTML - Daily Routine Project
+This repository contains a simple HTML webpage with basic CSS styling.  
+The project is part of learning exercises to understand how HTML and CSS work together.
 ## 📂 Files Included
-- **index.html** → Main HTML file  
-- **style.css** → Styling for the webpage  
-## 🚀 Purpose
-The purpose of this repository is to practice:
-- Writing clean and structured HTML  
-- Adding CSS for styling  
-- Understanding the basics of web design  
+- **Task2.html** → A webpage showing "My Daily Routine" using HTML tags like headings, paragraphs, lists, and horizontal rules.  
+- **style.css** → External stylesheet for styling the webpage.  
+## ✨ Features
+- Demonstrates basic HTML structure (`<!DOCTYPE html>`, `<head>`, `<body>`).  
+- Uses headings, paragraphs, ordered lists, and horizontal rules.  
+- Linked external CSS file for styling.  
+## 🎯 Purpose
+This project helps in practicing:
+- Creating structured HTML documents  
+- Linking external CSS for styling  
+- Building a simple daily routine webpage  
+
+
 
 
