@@ -1,0 +1,23 @@
+# Learning HTML  
+This repository contains my practice files and assignments for learning the basics of **HTML** and related web technologies.  
+It includes simple web pages created during my web development learning journey.  
+
+### Task 03
+- **File:** `Task 03.html` (with external stylesheet `STYLE1.CSS`)  
+- **Description:** A description list showcasing different web technologies (HTML, CSS, JavaScript, HTTP).  
+- **Concepts Covered:**  
+  - Description lists `<dl>`, `<dt>`, `<dd>`  
+  - External CSS linking  
+  - Basic styling (`h1`, `#id`, `ol`)  
+
+## 🛠 Technologies Used  
+- HTML5  
+- CSS3  
+
+
+
+
+
+
+
+
